@@ -1,0 +1,1 @@
+pyinstaller -Fw PPLcontrol_gui.py -i "NONE" --add-data "res;res"
